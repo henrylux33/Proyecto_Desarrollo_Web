@@ -4,8 +4,8 @@
   "description": "proyecto final desarrollo web",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+    "start": "babel-node src/index.js"
+    },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/henrylux33/Proyecto_Desarrollo_Web.git"
